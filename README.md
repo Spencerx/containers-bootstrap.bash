@@ -8,7 +8,7 @@ that are using [containers](https://github.com/reconquest/containers.bash).
 ## Via [import.bash](https://github.com/reconquest/import.bash)
 
 ```
-import "github.com/reconquest/containers-bootstrap.bash"
+import:use "github.com/reconquest/containers-bootstrap.bash"
 ```
 
 # Usage
